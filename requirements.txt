@@ -1,0 +1,17 @@
+pandas>=2.0
+numpy>=1.24
+transformers>=4.36
+peft>=0.7
+datasets>=2.14
+evaluate>=0.4
+rouge_score>=0.1
+sacrebleu>=2.0
+pyyaml>=6.0
+fastapi>=0.100
+uvicorn>=0.23
+pydantic>=2.0
+streamlit>=1.30
+plotly>=5.0
+accelerate>=0.25
+pytest>=7.0
+httpx>=0.25
